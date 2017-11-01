@@ -6,7 +6,7 @@ Created on 27.12.2013 .
 # used for unittesting
 import unittest
 # import class for testing
-from bruch.Bruch import *
+from Bruch import *;
 
 
 class TestAllgemein(unittest.TestCase):
