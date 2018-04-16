@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="nosetests" tests="9" errors="9" failures="0" skip="0"><testcase classname="nose.failure.Failure" name="runTest" time="0.000"><error type="builtins.ModuleNotFoundError" message="No module named 'bruch.Bruch'"><![CDATA[Traceback (most recent call last):
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 59, in testPartExecutor
+    yield
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\loader.py", line 418, in loadTestsFromName
+    addr.filename, addr.module)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 47, in importFromPath
+    return self.importFromDir(dir_path, fqname)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 94, in importFromDir
+    mod = load_module(part_fqname, fh, filename, desc)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 235, in load_module
+    return load_source(name, filename, file)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 172, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 684, in _load
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\Users\mjvid\PycharmProjects\Bruch\A04_bruch-master\bruch\test\Unit_Addition.py", line 7, in <module>
+    from bruch.Bruch import *
+ModuleNotFoundError: No module named 'bruch.Bruch'
+]]></error></testcase><testcase classname="nose.failure.Failure" name="runTest" time="0.000"><error type="builtins.ModuleNotFoundError" message="No module named 'bruch.Bruch'"><![CDATA[Traceback (most recent call last):
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 59, in testPartExecutor
+    yield
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\loader.py", line 418, in loadTestsFromName
+    addr.filename, addr.module)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 47, in importFromPath
+    return self.importFromDir(dir_path, fqname)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 94, in importFromDir
+    mod = load_module(part_fqname, fh, filename, desc)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 235, in load_module
+    return load_source(name, filename, file)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 172, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 684, in _load
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\Users\mjvid\PycharmProjects\Bruch\A04_bruch-master\bruch\test\Unit_Allgemein.py", line 7, in <module>
+    from bruch.Bruch import *
+ModuleNotFoundError: No module named 'bruch.Bruch'
+]]></error></testcase><testcase classname="nose.failure.Failure" name="runTest" time="0.000"><error type="builtins.ModuleNotFoundError" message="No module named 'bruch.Bruch'"><![CDATA[Traceback (most recent call last):
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 59, in testPartExecutor
+    yield
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\loader.py", line 418, in loadTestsFromName
+    addr.filename, addr.module)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 47, in importFromPath
+    return self.importFromDir(dir_path, fqname)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 94, in importFromDir
+    mod = load_module(part_fqname, fh, filename, desc)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 235, in load_module
+    return load_source(name, filename, file)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 172, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 684, in _load
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\Users\mjvid\PycharmProjects\Bruch\A04_bruch-master\bruch\test\Unit_Division.py", line 7, in <module>
+    from bruch.Bruch import *
+ModuleNotFoundError: No module named 'bruch.Bruch'
+]]></error></testcase><testcase classname="nose.failure.Failure" name="runTest" time="0.000"><error type="builtins.ModuleNotFoundError" message="No module named 'bruch.Bruch'"><![CDATA[Traceback (most recent call last):
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 59, in testPartExecutor
+    yield
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\loader.py", line 418, in loadTestsFromName
+    addr.filename, addr.module)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 47, in importFromPath
+    return self.importFromDir(dir_path, fqname)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 94, in importFromDir
+    mod = load_module(part_fqname, fh, filename, desc)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 235, in load_module
+    return load_source(name, filename, file)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 172, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 684, in _load
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\Users\mjvid\PycharmProjects\Bruch\A04_bruch-master\bruch\test\Unit_Multiplikation.py", line 7, in <module>
+    from bruch.Bruch import *
+ModuleNotFoundError: No module named 'bruch.Bruch'
+]]></error></testcase><testcase classname="nose.failure.Failure" name="runTest" time="0.000"><error type="builtins.ModuleNotFoundError" message="No module named 'bruch.Bruch'"><![CDATA[Traceback (most recent call last):
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 59, in testPartExecutor
+    yield
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\loader.py", line 418, in loadTestsFromName
+    addr.filename, addr.module)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 47, in importFromPath
+    return self.importFromDir(dir_path, fqname)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 94, in importFromDir
+    mod = load_module(part_fqname, fh, filename, desc)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 235, in load_module
+    return load_source(name, filename, file)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 172, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 684, in _load
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\Users\mjvid\PycharmProjects\Bruch\A04_bruch-master\bruch\test\Unit_String.py", line 7, in <module>
+    from bruch.Bruch import *
+ModuleNotFoundError: No module named 'bruch.Bruch'
+]]></error></testcase><testcase classname="nose.failure.Failure" name="runTest" time="0.000"><error type="builtins.ModuleNotFoundError" message="No module named 'bruch.Bruch'"><![CDATA[Traceback (most recent call last):
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 59, in testPartExecutor
+    yield
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\loader.py", line 418, in loadTestsFromName
+    addr.filename, addr.module)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 47, in importFromPath
+    return self.importFromDir(dir_path, fqname)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 94, in importFromDir
+    mod = load_module(part_fqname, fh, filename, desc)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 235, in load_module
+    return load_source(name, filename, file)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 172, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 684, in _load
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\Users\mjvid\PycharmProjects\Bruch\A04_bruch-master\bruch\test\Unit_Subtraktion.py", line 7, in <module>
+    from bruch.Bruch import *
+ModuleNotFoundError: No module named 'bruch.Bruch'
+]]></error></testcase><testcase classname="nose.failure.Failure" name="runTest" time="0.000"><error type="builtins.ModuleNotFoundError" message="No module named 'bruch.Bruch'"><![CDATA[Traceback (most recent call last):
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 59, in testPartExecutor
+    yield
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\loader.py", line 418, in loadTestsFromName
+    addr.filename, addr.module)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 47, in importFromPath
+    return self.importFromDir(dir_path, fqname)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 94, in importFromDir
+    mod = load_module(part_fqname, fh, filename, desc)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 235, in load_module
+    return load_source(name, filename, file)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 172, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 684, in _load
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\Users\mjvid\PycharmProjects\Bruch\A04_bruch-master\bruch\test\Unit_Vergleich.py", line 7, in <module>
+    from bruch.Bruch import *
+ModuleNotFoundError: No module named 'bruch.Bruch'
+]]></error></testcase><testcase classname="nose.failure.Failure" name="runTest" time="0.000"><error type="builtins.ModuleNotFoundError" message="No module named 'bruch.Bruch'"><![CDATA[Traceback (most recent call last):
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 59, in testPartExecutor
+    yield
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\loader.py", line 418, in loadTestsFromName
+    addr.filename, addr.module)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 47, in importFromPath
+    return self.importFromDir(dir_path, fqname)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 94, in importFromDir
+    mod = load_module(part_fqname, fh, filename, desc)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 235, in load_module
+    return load_source(name, filename, file)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 172, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 684, in _load
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\Users\mjvid\PycharmProjects\Bruch\A04_bruch-master\bruch\test\Unit_Zusatz.py", line 6, in <module>
+    from bruch.Bruch import *
+ModuleNotFoundError: No module named 'bruch.Bruch'
+]]></error></testcase><testcase classname="nose.failure.Failure" name="runTest" time="0.000"><error type="builtins.ModuleNotFoundError" message="No module named 'Bruch'"><![CDATA[Traceback (most recent call last):
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 59, in testPartExecutor
+    yield
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\loader.py", line 418, in loadTestsFromName
+    addr.filename, addr.module)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 47, in importFromPath
+    return self.importFromDir(dir_path, fqname)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\site-packages\nose\importer.py", line 94, in importFromDir
+    mod = load_module(part_fqname, fh, filename, desc)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 235, in load_module
+    return load_source(name, filename, file)
+  File "c:\users\mjvid\appdata\local\programs\python\python36-32\lib\imp.py", line 172, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 684, in _load
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\Users\mjvid\PycharmProjects\Bruch\A04_bruch-master\bruch\test\Testall.py", line 9, in <module>
+    from Bruch import *;
+ModuleNotFoundError: No module named 'Bruch'
+]]></error></testcase></testsuite>
