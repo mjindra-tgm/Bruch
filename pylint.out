@@ -1,573 +1,71 @@
+************* 
+__init__.py:1: [F0010(parse-error), ] error while code parsing: Unable to load file C:\Users\mjvid\PycharmProjects\Bruch\__init__.py:
+[Errno 2] No such file or directory: 'C:\\Users\\mjvid\\PycharmProjects\\Bruch\\__init__.py'
 ************* Module bruch
-bruch:1: [F0001(fatal), ] No module named bruch
-************* Module A04_bruch-master.bruch.test.Bruch
-A04_bruch-master\bruch\test\Bruch.py:38: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:43: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:51: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:58: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:59: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:67: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:77: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:91: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:95: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:103: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:129: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:139: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:157: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:180: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:226: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:251: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:256: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:274: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:284: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:293: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:303: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:313: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:322: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:331: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:338: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:349: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:360: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:371: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:391: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Bruch.py:1: [C0103(invalid-name), ] Module name "Bruch" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:35: [C0123(unidiomatic-typecheck), Bruch.__init__] Using type() instead of isinstance() for a typecheck.
-A04_bruch-master\bruch\test\Bruch.py:37: [C0123(unidiomatic-typecheck), Bruch.__init__] Using type() instead of isinstance() for a typecheck.
-A04_bruch-master\bruch\test\Bruch.py:87: [C0103(invalid-name), Bruch.__add__] Variable name "z2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:87: [C0103(invalid-name), Bruch.__add__] Variable name "n2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:88: [C0123(unidiomatic-typecheck), Bruch.__add__] Using type() instead of isinstance() for a typecheck.
-A04_bruch-master\bruch\test\Bruch.py:89: [C0103(invalid-name), Bruch.__add__] Variable name "z2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:89: [C0103(invalid-name), Bruch.__add__] Variable name "n2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:112: [C0123(unidiomatic-typecheck), Bruch.__rsub__] Using type() instead of isinstance() for a typecheck.
-A04_bruch-master\bruch\test\Bruch.py:113: [C0103(invalid-name), Bruch.__rsub__] Variable name "z2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:149: [C0103(invalid-name), Bruch.__mul__] Variable name "z2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:149: [C0103(invalid-name), Bruch.__mul__] Variable name "n2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:150: [C0123(unidiomatic-typecheck), Bruch.__mul__] Using type() instead of isinstance() for a typecheck.
-A04_bruch-master\bruch\test\Bruch.py:151: [C0103(invalid-name), Bruch.__mul__] Variable name "z2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:151: [C0103(invalid-name), Bruch.__mul__] Variable name "n2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:154: [C0103(invalid-name), Bruch.__mul__] Variable name "z2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:155: [C0103(invalid-name), Bruch.__mul__] Variable name "n2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:158: [C0103(invalid-name), Bruch.__pow__] Argument name "p" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:166: [C0123(unidiomatic-typecheck), Bruch.__pow__] Using type() instead of isinstance() for a typecheck.
-A04_bruch-master\bruch\test\Bruch.py:190: [C0123(unidiomatic-typecheck), Bruch.__rtruediv__] Using type() instead of isinstance() for a typecheck.
-A04_bruch-master\bruch\test\Bruch.py:191: [C0103(invalid-name), Bruch.__rtruediv__] Variable name "z2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:218: [C0103(invalid-name), Bruch.__truediv__] Variable name "z2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:218: [C0103(invalid-name), Bruch.__truediv__] Variable name "n2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:219: [C0123(unidiomatic-typecheck), Bruch.__truediv__] Using type() instead of isinstance() for a typecheck.
-A04_bruch-master\bruch\test\Bruch.py:220: [C0103(invalid-name), Bruch.__truediv__] Variable name "z2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:220: [C0103(invalid-name), Bruch.__truediv__] Variable name "n2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:252: [R1705(no-else-return), Bruch.__repr__] Unnecessary "else" after "return"
-A04_bruch-master\bruch\test\Bruch.py:258: [C0103(invalid-name), Bruch.__makeBruch] Method name "__makeBruch" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:266: [W0105(pointless-string-statement), Bruch.__makeBruch] String statement has no effect
-A04_bruch-master\bruch\test\Bruch.py:269: [C0123(unidiomatic-typecheck), Bruch.__makeBruch] Using type() instead of isinstance() for a typecheck.
-A04_bruch-master\bruch\test\Bruch.py:270: [C0103(invalid-name), Bruch.__makeBruch] Variable name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:393: [C0103(invalid-name), Bruch.gcd] Argument name "x" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:393: [C0103(invalid-name), Bruch.gcd] Argument name "y" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Bruch.py:404: [W0105(pointless-string-statement), Bruch.gcd] String statement has no effect
-A04_bruch-master\bruch\test\Bruch.py:9: [R0903(too-few-public-methods), Bruch] Too few public methods (1/2)
-************* Module A04_bruch-master.bruch.test.Testall
-A04_bruch-master\bruch\test\Testall.py:9: [W0301(unnecessary-semicolon), ] Unnecessary semicolon
-A04_bruch-master\bruch\test\Testall.py:33: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:37: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:41: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:46: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:59: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:63: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:77: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:81: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:85: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:89: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:93: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:109: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:112: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:115: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:118: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:121: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:124: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:141: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:146: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:163: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:167: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:171: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:175: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:179: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:183: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:206: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:210: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:214: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:228: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:232: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:236: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:253: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:257: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:261: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:268: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:272: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:276: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:296: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:300: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:304: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:311: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:328: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:332: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Testall.py:1: [C0103(invalid-name), ] Module name "Testall" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:9: [W0401(wildcard-import), ] Wildcard import Bruch
-A04_bruch-master\bruch\test\Testall.py:22: [C0103(invalid-name), TestAllgemein.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:23: [C0103(invalid-name), TestAllgemein.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:24: [C0103(invalid-name), TestAllgemein.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:25: [W0107(unnecessary-pass), TestAllgemein.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:29: [W0107(unnecessary-pass), TestAllgemein.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:31: [C0103(invalid-name), TestAllgemein.testFloat] Method name "testFloat" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:31: [C0111(missing-docstring), TestAllgemein.testFloat] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:32: [C0103(invalid-name), TestAllgemein.testFloat] Variable name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:31: [R0201(no-self-use), TestAllgemein.testFloat] Method could be a function
-A04_bruch-master\bruch\test\Testall.py:35: [C0103(invalid-name), TestAllgemein.testInt] Method name "testInt" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:35: [C0111(missing-docstring), TestAllgemein.testInt] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:36: [C0103(invalid-name), TestAllgemein.testInt] Variable name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:35: [R0201(no-self-use), TestAllgemein.testInt] Method could be a function
-A04_bruch-master\bruch\test\Testall.py:39: [C0103(invalid-name), TestAllgemein.testComplex] Method name "testComplex" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:39: [C0111(missing-docstring), TestAllgemein.testComplex] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:40: [C0103(invalid-name), TestAllgemein.testComplex] Variable name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:39: [R0201(no-self-use), TestAllgemein.testComplex] Method could be a function
-A04_bruch-master\bruch\test\Testall.py:43: [C0103(invalid-name), TestAllgemein.testInvert] Method name "testInvert" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:43: [C0111(missing-docstring), TestAllgemein.testInvert] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:44: [C0103(invalid-name), TestAllgemein.testInvert] Variable name "z" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:44: [C0103(invalid-name), TestAllgemein.testInvert] Variable name "n" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:45: [C0103(invalid-name), TestAllgemein.testInvert] Variable name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:43: [R0201(no-self-use), TestAllgemein.testInvert] Method could be a function
-A04_bruch-master\bruch\test\Testall.py:48: [C0103(invalid-name), TestAllgemein.testcreateBruchZeroError] Method name "testcreateBruchZeroError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:48: [C0111(missing-docstring), TestAllgemein.testcreateBruchZeroError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:51: [C0103(invalid-name), TestAllgemein.testcreateBruchWrongTypeNenner] Method name "testcreateBruchWrongTypeNenner" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:51: [C0111(missing-docstring), TestAllgemein.testcreateBruchWrongTypeNenner] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:54: [C0103(invalid-name), TestAllgemein.testcreateBruchWrongTypeZaehler] Method name "testcreateBruchWrongTypeZaehler" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:54: [C0111(missing-docstring), TestAllgemein.testcreateBruchWrongTypeZaehler] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:57: [C0103(invalid-name), TestAllgemein.testInteger] Method name "testInteger" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:57: [C0111(missing-docstring), TestAllgemein.testInteger] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:61: [C0103(invalid-name), TestAllgemein.testPow] Method name "testPow" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:61: [C0111(missing-docstring), TestAllgemein.testPow] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:62: [C0103(invalid-name), TestAllgemein.testPow] Variable name "h" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:65: [C0103(invalid-name), TestAllgemein.testPowError1] Method name "testPowError1" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:65: [C0111(missing-docstring), TestAllgemein.testPowError1] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:68: [C0103(invalid-name), TestAllgemein.testPowError2] Method name "testPowError2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:68: [C0111(missing-docstring), TestAllgemein.testPowError2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:71: [C0103(invalid-name), TestAllgemein.test_makeBruchTypeError] Method name "test_makeBruchTypeError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:71: [C0111(missing-docstring), TestAllgemein.test_makeBruchTypeError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:72: [E1101(no-member), TestAllgemein.test_makeBruchTypeError] Class 'Bruch' has no '_Bruch__makeBruch' member
-A04_bruch-master\bruch\test\Testall.py:72: [W0212(protected-access), TestAllgemein.test_makeBruchTypeError] Access to a protected member _Bruch__makeBruch of a client class
-A04_bruch-master\bruch\test\Testall.py:74: [C0103(invalid-name), TestAllgemein.test_makeBruchInt] Method name "test_makeBruchInt" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:74: [C0111(missing-docstring), TestAllgemein.test_makeBruchInt] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:76: [C0103(invalid-name), TestAllgemein.test_makeBruchInt] Variable name "b4" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:76: [E1101(no-member), TestAllgemein.test_makeBruchInt] Class 'Bruch' has no '_Bruch__makeBruch' member
-A04_bruch-master\bruch\test\Testall.py:76: [W0212(protected-access), TestAllgemein.test_makeBruchInt] Access to a protected member _Bruch__makeBruch of a client class
-A04_bruch-master\bruch\test\Testall.py:74: [R0201(no-self-use), TestAllgemein.test_makeBruchInt] Method could be a function
-A04_bruch-master\bruch\test\Testall.py:79: [C0103(invalid-name), TestAllgemein.testAbs] Method name "testAbs" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:79: [C0111(missing-docstring), TestAllgemein.testAbs] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:80: [C0103(invalid-name), TestAllgemein.testAbs] Variable name "b4" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:79: [R0201(no-self-use), TestAllgemein.testAbs] Method could be a function
-A04_bruch-master\bruch\test\Testall.py:83: [C0103(invalid-name), TestAllgemein.testNeg] Method name "testNeg" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:83: [C0111(missing-docstring), TestAllgemein.testNeg] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:84: [C0103(invalid-name), TestAllgemein.testNeg] Variable name "b4" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:83: [R0201(no-self-use), TestAllgemein.testNeg] Method could be a function
-A04_bruch-master\bruch\test\Testall.py:88: [C0103(invalid-name), TestAllgemein.testRef] Method name "testRef" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:88: [C0111(missing-docstring), TestAllgemein.testRef] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:91: [C0103(invalid-name), TestAllgemein.testRef2] Method name "testRef2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:91: [C0111(missing-docstring), TestAllgemein.testRef2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:92: [C0103(invalid-name), TestAllgemein.testRef2] Variable name "b4" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:99: [C0103(invalid-name), TestVergleich.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:100: [C0103(invalid-name), TestVergleich.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:101: [C0103(invalid-name), TestVergleich.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:96: [C0111(missing-docstring), TestVergleich] Missing class docstring
-A04_bruch-master\bruch\test\Testall.py:102: [W0107(unnecessary-pass), TestVergleich.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:106: [W0107(unnecessary-pass), TestVergleich.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:108: [C0103(invalid-name), TestVergleich.testEqual] Method name "testEqual" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:108: [C0111(missing-docstring), TestVergleich.testEqual] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:111: [C0103(invalid-name), TestVergleich.testNotEqual] Method name "testNotEqual" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:111: [C0111(missing-docstring), TestVergleich.testNotEqual] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:114: [C0103(invalid-name), TestVergleich.testGE] Method name "testGE" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:114: [C0111(missing-docstring), TestVergleich.testGE] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:117: [C0103(invalid-name), TestVergleich.testLE] Method name "testLE" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:117: [C0111(missing-docstring), TestVergleich.testLE] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:120: [C0103(invalid-name), TestVergleich.testLT] Method name "testLT" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:120: [C0111(missing-docstring), TestVergleich.testLT] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:123: [C0103(invalid-name), TestVergleich.testGT] Method name "testGT" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:123: [C0111(missing-docstring), TestVergleich.testGT] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:130: [C0103(invalid-name), TestString.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:131: [C0103(invalid-name), TestString.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:132: [C0103(invalid-name), TestString.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:127: [C0111(missing-docstring), TestString] Missing class docstring
-A04_bruch-master\bruch\test\Testall.py:133: [W0107(unnecessary-pass), TestString.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:137: [W0107(unnecessary-pass), TestString.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:139: [C0111(missing-docstring), TestString.teststr] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:143: [C0111(missing-docstring), TestString.teststr2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:144: [C0103(invalid-name), TestString.teststr2] Variable name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:143: [R0201(no-self-use), TestString.teststr2] Method could be a function
-A04_bruch-master\bruch\test\Testall.py:152: [C0103(invalid-name), TestAddition.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:153: [C0103(invalid-name), TestAddition.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:154: [C0103(invalid-name), TestAddition.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:149: [C0111(missing-docstring), TestAddition] Missing class docstring
-A04_bruch-master\bruch\test\Testall.py:155: [W0107(unnecessary-pass), TestAddition.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:159: [W0107(unnecessary-pass), TestAddition.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:161: [C0111(missing-docstring), TestAddition.testplus] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:165: [C0111(missing-docstring), TestAddition.testplus2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:169: [C0111(missing-docstring), TestAddition.testplus3] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:173: [C0111(missing-docstring), TestAddition.testradd] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:177: [C0103(invalid-name), TestAddition.testiAdd] Method name "testiAdd" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:177: [C0111(missing-docstring), TestAddition.testiAdd] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:181: [C0103(invalid-name), TestAddition.testiAdd2] Method name "testiAdd2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:181: [C0111(missing-docstring), TestAddition.testiAdd2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:185: [C0103(invalid-name), TestAddition.testaddError] Method name "testaddError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:185: [C0111(missing-docstring), TestAddition.testaddError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:188: [C0103(invalid-name), TestAddition.testiAddError] Method name "testiAddError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:188: [C0111(missing-docstring), TestAddition.testiAddError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:195: [C0103(invalid-name), TestSubtraktion.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:196: [C0103(invalid-name), TestSubtraktion.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:197: [C0103(invalid-name), TestSubtraktion.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:192: [C0111(missing-docstring), TestSubtraktion] Missing class docstring
-A04_bruch-master\bruch\test\Testall.py:198: [W0107(unnecessary-pass), TestSubtraktion.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:202: [W0107(unnecessary-pass), TestSubtraktion.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:204: [C0111(missing-docstring), TestSubtraktion.testminus] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:208: [C0111(missing-docstring), TestSubtraktion.testminus2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:212: [C0111(missing-docstring), TestSubtraktion.testminus3] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:216: [C0103(invalid-name), TestSubtraktion.testiSubError] Method name "testiSubError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:216: [C0111(missing-docstring), TestSubtraktion.testiSubError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:219: [C0103(invalid-name), TestSubtraktion.testrsubError] Method name "testrsubError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:226: [C0103(invalid-name), TestSubtraktion.testiSub] Method name "testiSub" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:226: [C0111(missing-docstring), TestSubtraktion.testiSub] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:230: [C0103(invalid-name), TestSubtraktion.testiSub2] Method name "testiSub2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:230: [C0111(missing-docstring), TestSubtraktion.testiSub2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:234: [C0111(missing-docstring), TestSubtraktion.testrsub] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:242: [C0103(invalid-name), TestMultiplikation.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:243: [C0103(invalid-name), TestMultiplikation.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:244: [C0103(invalid-name), TestMultiplikation.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:239: [C0111(missing-docstring), TestMultiplikation] Missing class docstring
-A04_bruch-master\bruch\test\Testall.py:245: [W0107(unnecessary-pass), TestMultiplikation.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:249: [W0107(unnecessary-pass), TestMultiplikation.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:251: [C0111(missing-docstring), TestMultiplikation.testmal] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:255: [C0111(missing-docstring), TestMultiplikation.testmal2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:259: [C0111(missing-docstring), TestMultiplikation.testmal3] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:263: [C0103(invalid-name), TestMultiplikation.testiMulError] Method name "testiMulError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:263: [C0111(missing-docstring), TestMultiplikation.testiMulError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:266: [C0103(invalid-name), TestMultiplikation.testiMul] Method name "testiMul" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:266: [C0111(missing-docstring), TestMultiplikation.testiMul] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:270: [C0103(invalid-name), TestMultiplikation.testiMul2] Method name "testiMul2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:270: [C0111(missing-docstring), TestMultiplikation.testiMul2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:274: [C0111(missing-docstring), TestMultiplikation.testrmal] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:278: [C0103(invalid-name), TestMultiplikation.testmulError] Method name "testmulError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:278: [C0111(missing-docstring), TestMultiplikation.testmulError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:285: [C0103(invalid-name), TestDivision.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:286: [C0103(invalid-name), TestDivision.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:287: [C0103(invalid-name), TestDivision.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:282: [C0111(missing-docstring), TestDivision] Missing class docstring
-A04_bruch-master\bruch\test\Testall.py:288: [W0107(unnecessary-pass), TestDivision.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:292: [W0107(unnecessary-pass), TestDivision.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:294: [C0111(missing-docstring), TestDivision.testdiv] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:298: [C0111(missing-docstring), TestDivision.testdiv2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:302: [C0111(missing-docstring), TestDivision.testdiv3] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:306: [C0103(invalid-name), TestDivision.testrdivError] Method name "testrdivError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:306: [C0111(missing-docstring), TestDivision.testrdivError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:309: [C0111(missing-docstring), TestDivision.testrdiv] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:313: [C0103(invalid-name), TestDivision.testdivZeroError] Method name "testdivZeroError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:313: [C0111(missing-docstring), TestDivision.testdivZeroError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:316: [C0103(invalid-name), TestDivision.testdivTypeError] Method name "testdivTypeError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:316: [C0111(missing-docstring), TestDivision.testdivTypeError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:319: [C0103(invalid-name), TestDivision.testdivZeroError2] Method name "testdivZeroError2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:319: [C0111(missing-docstring), TestDivision.testdivZeroError2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:322: [C0103(invalid-name), TestDivision.testrdivZeroError] Method name "testrdivZeroError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:322: [C0111(missing-docstring), TestDivision.testrdivZeroError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:326: [C0103(invalid-name), TestDivision.testiDiv] Method name "testiDiv" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:326: [C0111(missing-docstring), TestDivision.testiDiv] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:330: [C0103(invalid-name), TestDivision.testiDiv2] Method name "testiDiv2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:330: [C0111(missing-docstring), TestDivision.testiDiv2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:334: [C0103(invalid-name), TestDivision.testiDivError] Method name "testiDivError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:334: [C0111(missing-docstring), TestDivision.testiDivError] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:341: [C0103(invalid-name), TestIteration.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:342: [C0103(invalid-name), TestIteration.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:343: [C0103(invalid-name), TestIteration.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:338: [C0111(missing-docstring), TestIteration] Missing class docstring
-A04_bruch-master\bruch\test\Testall.py:344: [W0107(unnecessary-pass), TestIteration.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:348: [W0107(unnecessary-pass), TestIteration.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Testall.py:350: [C0103(invalid-name), TestIteration.testTuple] Method name "testTuple" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:350: [C0111(missing-docstring), TestIteration.testTuple] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:351: [C0103(invalid-name), TestIteration.testTuple] Variable name "z" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:351: [C0103(invalid-name), TestIteration.testTuple] Variable name "n" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:350: [R0201(no-self-use), TestIteration.testTuple] Method could be a function
-A04_bruch-master\bruch\test\Testall.py:354: [C0103(invalid-name), TestIteration.testTuple2] Method name "testTuple2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:354: [C0111(missing-docstring), TestIteration.testTuple2] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:355: [C0103(invalid-name), TestIteration.testTuple2] Variable name "z" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:355: [C0103(invalid-name), TestIteration.testTuple2] Variable name "n" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:358: [C0103(invalid-name), TestIteration.testTuple3_Error] Method name "testTuple3_Error" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:358: [C0111(missing-docstring), TestIteration.testTuple3_Error] Missing method docstring
-A04_bruch-master\bruch\test\Testall.py:359: [C0103(invalid-name), TestIteration.testTuple3_Error] Variable name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:363: [C0103(invalid-name), TestIteration.tryIndex] Method name "tryIndex" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Testall.py:363: [C0111(missing-docstring), TestIteration.tryIndex] Missing method docstring
-************* Module A04_bruch-master.bruch.test.Unit_Addition
-A04_bruch-master\bruch\test\Unit_Addition.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Addition.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Addition.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Addition.py:36: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Addition.py:40: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Addition.py:44: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Addition.py:54: [C0304(missing-final-newline), ] Final newline missing
-A04_bruch-master\bruch\test\Unit_Addition.py:1: [C0103(invalid-name), ] Module name "Unit_Addition" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Addition.py:7: [W0401(wildcard-import), ] Wildcard import Bruch
-A04_bruch-master\bruch\test\Unit_Addition.py:13: [C0103(invalid-name), TestAddition.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Addition.py:14: [C0103(invalid-name), TestAddition.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Addition.py:15: [C0103(invalid-name), TestAddition.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Addition.py:10: [C0111(missing-docstring), TestAddition] Missing class docstring
-A04_bruch-master\bruch\test\Unit_Addition.py:16: [W0107(unnecessary-pass), TestAddition.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Addition.py:20: [W0107(unnecessary-pass), TestAddition.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Addition.py:22: [C0111(missing-docstring), TestAddition.testplus] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Addition.py:26: [C0111(missing-docstring), TestAddition.testplus2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Addition.py:30: [C0111(missing-docstring), TestAddition.testplus3] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Addition.py:34: [C0111(missing-docstring), TestAddition.testradd] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Addition.py:38: [C0103(invalid-name), TestAddition.testiAdd] Method name "testiAdd" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Addition.py:38: [C0111(missing-docstring), TestAddition.testiAdd] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Addition.py:42: [C0103(invalid-name), TestAddition.testiAdd2] Method name "testiAdd2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Addition.py:42: [C0111(missing-docstring), TestAddition.testiAdd2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Addition.py:46: [C0103(invalid-name), TestAddition.testaddError] Method name "testaddError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Addition.py:46: [C0111(missing-docstring), TestAddition.testaddError] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Addition.py:49: [C0103(invalid-name), TestAddition.testiAddError] Method name "testiAddError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Addition.py:49: [C0111(missing-docstring), TestAddition.testiAddError] Missing method docstring
-************* Module A04_bruch-master.bruch.test.Unit_Allgemein
-A04_bruch-master\bruch\test\Unit_Allgemein.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Allgemein.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Allgemein.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Allgemein.py:37: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Allgemein.py:50: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Allgemein.py:54: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Allgemein.py:68: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Allgemein.py:72: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Allgemein.py:76: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Allgemein.py:80: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Allgemein.py:84: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Allgemein.py:88: [C0304(missing-final-newline), ] Final newline missing
-A04_bruch-master\bruch\test\Unit_Allgemein.py:1: [C0103(invalid-name), ] Module name "Unit_Allgemein" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:7: [W0401(wildcard-import), ] Wildcard import Bruch
-A04_bruch-master\bruch\test\Unit_Allgemein.py:13: [C0103(invalid-name), TestAllgemein.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:14: [C0103(invalid-name), TestAllgemein.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:15: [C0103(invalid-name), TestAllgemein.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:10: [C0111(missing-docstring), TestAllgemein] Missing class docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:16: [W0107(unnecessary-pass), TestAllgemein.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Allgemein.py:20: [W0107(unnecessary-pass), TestAllgemein.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Allgemein.py:22: [C0103(invalid-name), TestAllgemein.testFloat] Method name "testFloat" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:22: [C0111(missing-docstring), TestAllgemein.testFloat] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:23: [C0103(invalid-name), TestAllgemein.testFloat] Variable name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:22: [R0201(no-self-use), TestAllgemein.testFloat] Method could be a function
-A04_bruch-master\bruch\test\Unit_Allgemein.py:26: [C0103(invalid-name), TestAllgemein.testInt] Method name "testInt" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:26: [C0111(missing-docstring), TestAllgemein.testInt] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:27: [C0103(invalid-name), TestAllgemein.testInt] Variable name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:26: [R0201(no-self-use), TestAllgemein.testInt] Method could be a function
-A04_bruch-master\bruch\test\Unit_Allgemein.py:30: [C0103(invalid-name), TestAllgemein.testComplex] Method name "testComplex" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:30: [C0111(missing-docstring), TestAllgemein.testComplex] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:31: [C0103(invalid-name), TestAllgemein.testComplex] Variable name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:30: [R0201(no-self-use), TestAllgemein.testComplex] Method could be a function
-A04_bruch-master\bruch\test\Unit_Allgemein.py:34: [C0103(invalid-name), TestAllgemein.testInvert] Method name "testInvert" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:34: [C0111(missing-docstring), TestAllgemein.testInvert] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:35: [C0103(invalid-name), TestAllgemein.testInvert] Variable name "z" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:35: [C0103(invalid-name), TestAllgemein.testInvert] Variable name "n" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:36: [C0103(invalid-name), TestAllgemein.testInvert] Variable name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:34: [R0201(no-self-use), TestAllgemein.testInvert] Method could be a function
-A04_bruch-master\bruch\test\Unit_Allgemein.py:39: [C0103(invalid-name), TestAllgemein.testcreateBruchZeroError] Method name "testcreateBruchZeroError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:39: [C0111(missing-docstring), TestAllgemein.testcreateBruchZeroError] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:42: [C0103(invalid-name), TestAllgemein.testcreateBruchWrongTypeNenner] Method name "testcreateBruchWrongTypeNenner" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:42: [C0111(missing-docstring), TestAllgemein.testcreateBruchWrongTypeNenner] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:45: [C0103(invalid-name), TestAllgemein.testcreateBruchWrongTypeZaehler] Method name "testcreateBruchWrongTypeZaehler" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:45: [C0111(missing-docstring), TestAllgemein.testcreateBruchWrongTypeZaehler] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:48: [C0103(invalid-name), TestAllgemein.testInteger] Method name "testInteger" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:48: [C0111(missing-docstring), TestAllgemein.testInteger] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:52: [C0103(invalid-name), TestAllgemein.testPow] Method name "testPow" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:52: [C0111(missing-docstring), TestAllgemein.testPow] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:53: [C0103(invalid-name), TestAllgemein.testPow] Variable name "h" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:56: [C0103(invalid-name), TestAllgemein.testPowError1] Method name "testPowError1" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:56: [C0111(missing-docstring), TestAllgemein.testPowError1] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:59: [C0103(invalid-name), TestAllgemein.testPowError2] Method name "testPowError2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:59: [C0111(missing-docstring), TestAllgemein.testPowError2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:62: [C0103(invalid-name), TestAllgemein.test_makeBruchTypeError] Method name "test_makeBruchTypeError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:62: [C0111(missing-docstring), TestAllgemein.test_makeBruchTypeError] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:63: [E1101(no-member), TestAllgemein.test_makeBruchTypeError] Class 'Bruch' has no '_Bruch__makeBruch' member
-A04_bruch-master\bruch\test\Unit_Allgemein.py:63: [W0212(protected-access), TestAllgemein.test_makeBruchTypeError] Access to a protected member _Bruch__makeBruch of a client class
-A04_bruch-master\bruch\test\Unit_Allgemein.py:65: [C0103(invalid-name), TestAllgemein.test_makeBruchInt] Method name "test_makeBruchInt" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:65: [C0111(missing-docstring), TestAllgemein.test_makeBruchInt] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:67: [C0103(invalid-name), TestAllgemein.test_makeBruchInt] Variable name "b4" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:67: [E1101(no-member), TestAllgemein.test_makeBruchInt] Class 'Bruch' has no '_Bruch__makeBruch' member
-A04_bruch-master\bruch\test\Unit_Allgemein.py:67: [W0212(protected-access), TestAllgemein.test_makeBruchInt] Access to a protected member _Bruch__makeBruch of a client class
-A04_bruch-master\bruch\test\Unit_Allgemein.py:65: [R0201(no-self-use), TestAllgemein.test_makeBruchInt] Method could be a function
-A04_bruch-master\bruch\test\Unit_Allgemein.py:70: [C0103(invalid-name), TestAllgemein.testAbs] Method name "testAbs" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:70: [C0111(missing-docstring), TestAllgemein.testAbs] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:71: [C0103(invalid-name), TestAllgemein.testAbs] Variable name "b4" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:70: [R0201(no-self-use), TestAllgemein.testAbs] Method could be a function
-A04_bruch-master\bruch\test\Unit_Allgemein.py:74: [C0103(invalid-name), TestAllgemein.testNeg] Method name "testNeg" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:74: [C0111(missing-docstring), TestAllgemein.testNeg] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:75: [C0103(invalid-name), TestAllgemein.testNeg] Variable name "b4" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:74: [R0201(no-self-use), TestAllgemein.testNeg] Method could be a function
-A04_bruch-master\bruch\test\Unit_Allgemein.py:79: [C0103(invalid-name), TestAllgemein.testRef] Method name "testRef" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:79: [C0111(missing-docstring), TestAllgemein.testRef] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:82: [C0103(invalid-name), TestAllgemein.testRef2] Method name "testRef2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Allgemein.py:82: [C0111(missing-docstring), TestAllgemein.testRef2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Allgemein.py:83: [C0103(invalid-name), TestAllgemein.testRef2] Variable name "b4" doesn't conform to snake_case naming style
-************* Module A04_bruch-master.bruch.test.Unit_Division
-A04_bruch-master\bruch\test\Unit_Division.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Division.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Division.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Division.py:39: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Division.py:53: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Unit_Division.py:56: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Division.py:57: [C0303(trailing-whitespace), ] Trailing whitespace
-A04_bruch-master\bruch\test\Unit_Division.py:60: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Division.py:66: [C0304(missing-final-newline), ] Final newline missing
-A04_bruch-master\bruch\test\Unit_Division.py:1: [C0103(invalid-name), ] Module name "Unit_Division" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:7: [W0401(wildcard-import), ] Wildcard import Bruch
-A04_bruch-master\bruch\test\Unit_Division.py:13: [C0103(invalid-name), TestDivision.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:14: [C0103(invalid-name), TestDivision.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:15: [C0103(invalid-name), TestDivision.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:10: [C0111(missing-docstring), TestDivision] Missing class docstring
-A04_bruch-master\bruch\test\Unit_Division.py:16: [W0107(unnecessary-pass), TestDivision.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Division.py:20: [W0107(unnecessary-pass), TestDivision.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Division.py:22: [C0111(missing-docstring), TestDivision.testdiv] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Division.py:26: [C0111(missing-docstring), TestDivision.testdiv2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Division.py:30: [C0111(missing-docstring), TestDivision.testdiv3] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Division.py:34: [C0103(invalid-name), TestDivision.testrdivError] Method name "testrdivError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:34: [C0111(missing-docstring), TestDivision.testrdivError] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Division.py:37: [C0111(missing-docstring), TestDivision.testrdiv] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Division.py:41: [C0103(invalid-name), TestDivision.testdivZeroError] Method name "testdivZeroError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:41: [C0111(missing-docstring), TestDivision.testdivZeroError] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Division.py:44: [C0103(invalid-name), TestDivision.testdivTypeError] Method name "testdivTypeError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:44: [C0111(missing-docstring), TestDivision.testdivTypeError] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Division.py:47: [C0103(invalid-name), TestDivision.testdivZeroError2] Method name "testdivZeroError2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:47: [C0111(missing-docstring), TestDivision.testdivZeroError2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Division.py:50: [C0103(invalid-name), TestDivision.testrdivZeroError] Method name "testrdivZeroError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:50: [C0111(missing-docstring), TestDivision.testrdivZeroError] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Division.py:54: [C0103(invalid-name), TestDivision.testiDiv] Method name "testiDiv" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:54: [C0111(missing-docstring), TestDivision.testiDiv] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Division.py:58: [C0103(invalid-name), TestDivision.testiDiv2] Method name "testiDiv2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:58: [C0111(missing-docstring), TestDivision.testiDiv2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Division.py:62: [C0103(invalid-name), TestDivision.testiDivError] Method name "testiDivError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Division.py:62: [C0111(missing-docstring), TestDivision.testiDivError] Missing method docstring
-************* Module A04_bruch-master.bruch.test.Unit_Multiplikation
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:39: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:43: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:47: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:53: [C0304(missing-final-newline), ] Final newline missing
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:1: [C0103(invalid-name), ] Module name "Unit_Multiplikation" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:7: [W0401(wildcard-import), ] Wildcard import Bruch
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:13: [C0103(invalid-name), TestMultiplikation.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:14: [C0103(invalid-name), TestMultiplikation.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:15: [C0103(invalid-name), TestMultiplikation.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:10: [C0111(missing-docstring), TestMultiplikation] Missing class docstring
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:16: [W0107(unnecessary-pass), TestMultiplikation.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:20: [W0107(unnecessary-pass), TestMultiplikation.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:22: [C0111(missing-docstring), TestMultiplikation.testmal] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:26: [C0111(missing-docstring), TestMultiplikation.testmal2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:30: [C0111(missing-docstring), TestMultiplikation.testmal3] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:34: [C0103(invalid-name), TestMultiplikation.testiMulError] Method name "testiMulError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:34: [C0111(missing-docstring), TestMultiplikation.testiMulError] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:37: [C0103(invalid-name), TestMultiplikation.testiMul] Method name "testiMul" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:37: [C0111(missing-docstring), TestMultiplikation.testiMul] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:41: [C0103(invalid-name), TestMultiplikation.testiMul2] Method name "testiMul2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:41: [C0111(missing-docstring), TestMultiplikation.testiMul2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:45: [C0111(missing-docstring), TestMultiplikation.testrmal] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:49: [C0103(invalid-name), TestMultiplikation.testmulError] Method name "testmulError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Multiplikation.py:49: [C0111(missing-docstring), TestMultiplikation.testmulError] Missing method docstring
-************* Module A04_bruch-master.bruch.test.Unit_String
-A04_bruch-master\bruch\test\Unit_String.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_String.py:29: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_String.py:33: [C0304(missing-final-newline), ] Final newline missing
-A04_bruch-master\bruch\test\Unit_String.py:1: [C0103(invalid-name), ] Module name "Unit_String" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_String.py:7: [W0401(wildcard-import), ] Wildcard import Bruch
-A04_bruch-master\bruch\test\Unit_String.py:13: [C0103(invalid-name), TestString.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_String.py:14: [C0103(invalid-name), TestString.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_String.py:15: [C0103(invalid-name), TestString.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_String.py:10: [C0111(missing-docstring), TestString] Missing class docstring
-A04_bruch-master\bruch\test\Unit_String.py:16: [W0107(unnecessary-pass), TestString.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_String.py:20: [W0107(unnecessary-pass), TestString.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_String.py:22: [C0111(missing-docstring), TestString.teststr] Missing method docstring
-A04_bruch-master\bruch\test\Unit_String.py:26: [C0111(missing-docstring), TestString.teststr2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_String.py:27: [C0103(invalid-name), TestString.teststr2] Variable name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_String.py:26: [R0201(no-self-use), TestString.teststr2] Method could be a function
-************* Module A04_bruch-master.bruch.test.Unit_Subtraktion
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:46: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:50: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:54: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:58: [C0304(missing-final-newline), ] Final newline missing
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:1: [C0103(invalid-name), ] Module name "Unit_Subtraktion" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:7: [W0401(wildcard-import), ] Wildcard import Bruch
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:13: [C0103(invalid-name), TestSubtraktion.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:14: [C0103(invalid-name), TestSubtraktion.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:15: [C0103(invalid-name), TestSubtraktion.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:10: [C0111(missing-docstring), TestSubtraktion] Missing class docstring
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:16: [W0107(unnecessary-pass), TestSubtraktion.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:20: [W0107(unnecessary-pass), TestSubtraktion.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:22: [C0111(missing-docstring), TestSubtraktion.testminus] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:26: [C0111(missing-docstring), TestSubtraktion.testminus2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:30: [C0111(missing-docstring), TestSubtraktion.testminus3] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:34: [C0103(invalid-name), TestSubtraktion.testiSubError] Method name "testiSubError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:34: [C0111(missing-docstring), TestSubtraktion.testiSubError] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:37: [C0103(invalid-name), TestSubtraktion.testrsubError] Method name "testrsubError" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:44: [C0103(invalid-name), TestSubtraktion.testiSub] Method name "testiSub" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:44: [C0111(missing-docstring), TestSubtraktion.testiSub] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:48: [C0103(invalid-name), TestSubtraktion.testiSub2] Method name "testiSub2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:48: [C0111(missing-docstring), TestSubtraktion.testiSub2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Subtraktion.py:52: [C0111(missing-docstring), TestSubtraktion.testrsub] Missing method docstring
-************* Module A04_bruch-master.bruch.test.Unit_Vergleich
-A04_bruch-master\bruch\test\Unit_Vergleich.py:23: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Vergleich.py:26: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Vergleich.py:29: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Vergleich.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Vergleich.py:35: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Vergleich.py:38: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
-A04_bruch-master\bruch\test\Unit_Vergleich.py:42: [C0304(missing-final-newline), ] Final newline missing
-A04_bruch-master\bruch\test\Unit_Vergleich.py:1: [C0103(invalid-name), ] Module name "Unit_Vergleich" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Vergleich.py:7: [W0401(wildcard-import), ] Wildcard import Bruch
-A04_bruch-master\bruch\test\Unit_Vergleich.py:13: [C0103(invalid-name), TestVergleich.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Vergleich.py:14: [C0103(invalid-name), TestVergleich.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Vergleich.py:15: [C0103(invalid-name), TestVergleich.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Vergleich.py:10: [C0111(missing-docstring), TestVergleich] Missing class docstring
-A04_bruch-master\bruch\test\Unit_Vergleich.py:16: [W0107(unnecessary-pass), TestVergleich.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Vergleich.py:20: [W0107(unnecessary-pass), TestVergleich.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Vergleich.py:22: [C0103(invalid-name), TestVergleich.testEqual] Method name "testEqual" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Vergleich.py:22: [C0111(missing-docstring), TestVergleich.testEqual] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Vergleich.py:25: [C0103(invalid-name), TestVergleich.testNotEqual] Method name "testNotEqual" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Vergleich.py:25: [C0111(missing-docstring), TestVergleich.testNotEqual] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Vergleich.py:28: [C0103(invalid-name), TestVergleich.testGE] Method name "testGE" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Vergleich.py:28: [C0111(missing-docstring), TestVergleich.testGE] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Vergleich.py:31: [C0103(invalid-name), TestVergleich.testLE] Method name "testLE" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Vergleich.py:31: [C0111(missing-docstring), TestVergleich.testLE] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Vergleich.py:34: [C0103(invalid-name), TestVergleich.testLT] Method name "testLT" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Vergleich.py:34: [C0111(missing-docstring), TestVergleich.testLT] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Vergleich.py:37: [C0103(invalid-name), TestVergleich.testGT] Method name "testGT" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Vergleich.py:37: [C0111(missing-docstring), TestVergleich.testGT] Missing method docstring
-************* Module A04_bruch-master.bruch.test.Unit_Zusatz
-A04_bruch-master\bruch\test\Unit_Zusatz.py:39: [C0304(missing-final-newline), ] Final newline missing
-A04_bruch-master\bruch\test\Unit_Zusatz.py:1: [C0103(invalid-name), ] Module name "Unit_Zusatz" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:6: [W0401(wildcard-import), ] Wildcard import Bruch
-A04_bruch-master\bruch\test\Unit_Zusatz.py:13: [C0103(invalid-name), TestAllgemein.setUp] Attribute name "b" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:14: [C0103(invalid-name), TestAllgemein.setUp] Attribute name "b2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:15: [C0103(invalid-name), TestAllgemein.setUp] Attribute name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:10: [C0111(missing-docstring), TestAllgemein] Missing class docstring
-A04_bruch-master\bruch\test\Unit_Zusatz.py:16: [W0107(unnecessary-pass), TestAllgemein.setUp] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Zusatz.py:20: [W0107(unnecessary-pass), TestAllgemein.tearDown] Unnecessary pass statement
-A04_bruch-master\bruch\test\Unit_Zusatz.py:22: [C0103(invalid-name), TestAllgemein.testTuple] Method name "testTuple" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:22: [C0111(missing-docstring), TestAllgemein.testTuple] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Zusatz.py:23: [C0103(invalid-name), TestAllgemein.testTuple] Variable name "z" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:23: [C0103(invalid-name), TestAllgemein.testTuple] Variable name "n" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:22: [R0201(no-self-use), TestAllgemein.testTuple] Method could be a function
-A04_bruch-master\bruch\test\Unit_Zusatz.py:26: [C0103(invalid-name), TestAllgemein.testTuple2] Method name "testTuple2" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:26: [C0111(missing-docstring), TestAllgemein.testTuple2] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Zusatz.py:27: [C0103(invalid-name), TestAllgemein.testTuple2] Variable name "z" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:27: [C0103(invalid-name), TestAllgemein.testTuple2] Variable name "n" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:30: [C0103(invalid-name), TestAllgemein.testTuple3_Error] Method name "testTuple3_Error" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:30: [C0111(missing-docstring), TestAllgemein.testTuple3_Error] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Zusatz.py:31: [C0103(invalid-name), TestAllgemein.testTuple3_Error] Variable name "b3" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:35: [C0103(invalid-name), TestAllgemein.tryIndex] Method name "tryIndex" doesn't conform to snake_case naming style
-A04_bruch-master\bruch\test\Unit_Zusatz.py:35: [C0111(missing-docstring), TestAllgemein.tryIndex] Missing method docstring
-A04_bruch-master\bruch\test\Unit_Zusatz.py:7: [C0411(wrong-import-order), ] standard import "import unittest" should be placed before "from Bruch import *"
+bruch.py:38: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:43: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:51: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:58: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:59: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:67: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:77: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:91: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:95: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:103: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:129: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:139: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:157: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:180: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:226: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:251: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:256: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:274: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:284: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:293: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:303: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:313: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:322: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:331: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:338: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:349: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:360: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:371: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:391: [C0303(trailing-whitespace), ] Trailing whitespace
+bruch.py:35: [C0123(unidiomatic-typecheck), Bruch.__init__] Using type() instead of isinstance() for a typecheck.
+bruch.py:37: [C0123(unidiomatic-typecheck), Bruch.__init__] Using type() instead of isinstance() for a typecheck.
+bruch.py:87: [C0103(invalid-name), Bruch.__add__] Variable name "z2" doesn't conform to snake_case naming style
+bruch.py:87: [C0103(invalid-name), Bruch.__add__] Variable name "n2" doesn't conform to snake_case naming style
+bruch.py:88: [C0123(unidiomatic-typecheck), Bruch.__add__] Using type() instead of isinstance() for a typecheck.
+bruch.py:89: [C0103(invalid-name), Bruch.__add__] Variable name "z2" doesn't conform to snake_case naming style
+bruch.py:89: [C0103(invalid-name), Bruch.__add__] Variable name "n2" doesn't conform to snake_case naming style
+bruch.py:112: [C0123(unidiomatic-typecheck), Bruch.__rsub__] Using type() instead of isinstance() for a typecheck.
+bruch.py:113: [C0103(invalid-name), Bruch.__rsub__] Variable name "z2" doesn't conform to snake_case naming style
+bruch.py:149: [C0103(invalid-name), Bruch.__mul__] Variable name "z2" doesn't conform to snake_case naming style
+bruch.py:149: [C0103(invalid-name), Bruch.__mul__] Variable name "n2" doesn't conform to snake_case naming style
+bruch.py:150: [C0123(unidiomatic-typecheck), Bruch.__mul__] Using type() instead of isinstance() for a typecheck.
+bruch.py:151: [C0103(invalid-name), Bruch.__mul__] Variable name "z2" doesn't conform to snake_case naming style
+bruch.py:151: [C0103(invalid-name), Bruch.__mul__] Variable name "n2" doesn't conform to snake_case naming style
+bruch.py:154: [C0103(invalid-name), Bruch.__mul__] Variable name "z2" doesn't conform to snake_case naming style
+bruch.py:155: [C0103(invalid-name), Bruch.__mul__] Variable name "n2" doesn't conform to snake_case naming style
+bruch.py:158: [C0103(invalid-name), Bruch.__pow__] Argument name "p" doesn't conform to snake_case naming style
+bruch.py:166: [C0123(unidiomatic-typecheck), Bruch.__pow__] Using type() instead of isinstance() for a typecheck.
+bruch.py:190: [C0123(unidiomatic-typecheck), Bruch.__rtruediv__] Using type() instead of isinstance() for a typecheck.
+bruch.py:191: [C0103(invalid-name), Bruch.__rtruediv__] Variable name "z2" doesn't conform to snake_case naming style
+bruch.py:218: [C0103(invalid-name), Bruch.__truediv__] Variable name "z2" doesn't conform to snake_case naming style
+bruch.py:218: [C0103(invalid-name), Bruch.__truediv__] Variable name "n2" doesn't conform to snake_case naming style
+bruch.py:219: [C0123(unidiomatic-typecheck), Bruch.__truediv__] Using type() instead of isinstance() for a typecheck.
+bruch.py:220: [C0103(invalid-name), Bruch.__truediv__] Variable name "z2" doesn't conform to snake_case naming style
+bruch.py:220: [C0103(invalid-name), Bruch.__truediv__] Variable name "n2" doesn't conform to snake_case naming style
+bruch.py:252: [R1705(no-else-return), Bruch.__repr__] Unnecessary "else" after "return"
+bruch.py:258: [C0103(invalid-name), Bruch.__makeBruch] Method name "__makeBruch" doesn't conform to snake_case naming style
+bruch.py:266: [W0105(pointless-string-statement), Bruch.__makeBruch] String statement has no effect
+bruch.py:269: [C0123(unidiomatic-typecheck), Bruch.__makeBruch] Using type() instead of isinstance() for a typecheck.
+bruch.py:270: [C0103(invalid-name), Bruch.__makeBruch] Variable name "b" doesn't conform to snake_case naming style
+bruch.py:393: [C0103(invalid-name), Bruch.gcd] Argument name "x" doesn't conform to snake_case naming style
+bruch.py:393: [C0103(invalid-name), Bruch.gcd] Argument name "y" doesn't conform to snake_case naming style
+bruch.py:404: [W0105(pointless-string-statement), Bruch.gcd] String statement has no effect
+bruch.py:9: [R0903(too-few-public-methods), Bruch] Too few public methods (1/2)
 
--------------------------------------------------------------------
-Your code has been rated at 1.45/10 (previous run: -3.78/10, +5.22)
+------------------------------------------------------------------
+Your code has been rated at 5.62/10 (previous run: 5.62/10, +0.00)
 
