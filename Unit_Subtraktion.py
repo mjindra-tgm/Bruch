@@ -17,7 +17,6 @@ class TestSubtraktion(unittest.TestCase):
 
     def tearDown(self):
         del self.b, self.b2, self.b3
-        pass
 
     def testminus(self):
         self.b = self.b - Bruch(4, 5)
